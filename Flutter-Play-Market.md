@@ -1,7 +1,3 @@
-Here's a **full, step-by-step guide** to publishing a **Flutter app** on **Google Play Market** in **2025**. This guide includes all **actions, files, codes, and Google Play Console steps** needed to make your app live.
-
----
-
 # 📌 **Step-by-Step Guide to Publishing a Flutter App on Google Play**
 
 ## 🔹 **Step 1: Prepare Your Flutter App for Release**
@@ -241,5 +237,3 @@ flutter build appbundle --release
 - **Update app regularly** (`flutter build appbundle --release` and re-upload).
 - **Monitor crashes & performance** in Play Console.
 - **Respond to user reviews**.
-
-Would you like additional details on any step? 🚀

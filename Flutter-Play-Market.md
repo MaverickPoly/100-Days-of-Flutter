@@ -98,6 +98,12 @@ Run in terminal:
 ```sh
 keytool -genkey -v -keystore ~/key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
 ```
+
+Alternative with full path:
+```sh
+keytool -genkey -v -keystore "D:\Path\To\Project\android\app\key.jks" -keyalg RSA -keysize 2048 -validity 10000 -alias key
+```
+
 Fill in the required details:
 - Password
 - Name
